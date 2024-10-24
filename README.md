@@ -1,0 +1,2 @@
+# bazandeko
+hosting projects
